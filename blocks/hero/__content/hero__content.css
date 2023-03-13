@@ -1,0 +1,8 @@
+.hero__content {
+  margin-top: 114px;
+  width: 944px;
+  height: 384px;
+  display: flex;
+  justify-content: space-between;
+  gap: 0 70px;
+}

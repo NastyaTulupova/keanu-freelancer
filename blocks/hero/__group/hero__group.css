@@ -1,0 +1,7 @@
+.hero__group {
+  width: 464px;
+  height: 319px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}

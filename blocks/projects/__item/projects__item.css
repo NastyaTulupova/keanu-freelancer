@@ -1,0 +1,6 @@
+.projects__item {
+  width: 304px;
+  height: 304px;
+  border-radius: 6px;
+  background-size: cover;
+}

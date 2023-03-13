@@ -1,0 +1,9 @@
+.projects {
+  list-style: none;
+  width: 944px;
+  height: 304px;
+  display: flex;
+  margin: 48px auto 0 auto;
+  padding: 0;
+  gap: 0 16px;
+}
