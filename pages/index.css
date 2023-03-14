@@ -28,6 +28,13 @@
 @import url(../blocks/projects/__item/_theme/projects__item_theme_corner.css);
 @import url(../blocks/projects/__item/_theme/projects__item_theme_golf.css);
 @import url(../blocks/projects/__item/_theme/projects__item_theme_trip.css);
-
+@import url(../blocks/projects/__title/projects__title.css);
+@import url(../blocks/projects/__button/projects__button.css);
+@import url(../blocks/media-gallery/media-gallery.css);
 @import url(../blocks/gallery/gallery.css);
+@import url(../blocks/gallery/__item/gallery__item.css);
+@import url(../blocks/gallery/__image/gallery__image.css);
+@import url(../blocks/gallery/inform-conteiner/gallery__inform-conteiner.css);
+@import url(../blocks/gallery/video-time/gallery__video-time.css);
+@import url(../blocks/gallery/__video-icon/gallery__video-icon.css);
 @import url(../blocks/contacts/contacts.css);
