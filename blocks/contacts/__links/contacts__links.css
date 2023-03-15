@@ -1,0 +1,7 @@
+.contacts__links {
+  width: 384px;
+  height: 422px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}

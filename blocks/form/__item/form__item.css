@@ -1,0 +1,16 @@
+.form__item {
+  width: 400px;
+  height: 70px;
+  margin: 0 32px 24px 32px;
+  padding: 0 62px;
+  background: #F8F8F8;
+  box-shadow: inset 0px 3px 10px rgba(199, 199, 199, 0.25);
+  border-radius: 5px;
+  border: 0;
+  box-sizing: border-box;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 28px;
+  font-family: inherit;
+  cursor: pointer;
+}

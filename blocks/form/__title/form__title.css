@@ -1,0 +1,9 @@
+.form__title {
+padding: 0;
+margin: 40px 32px 32px 32px;
+font-weight: 700;
+font-size: 18px;
+line-height: 28px;
+text-align: center;
+color: #000;
+}

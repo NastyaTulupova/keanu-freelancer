@@ -1,0 +1,8 @@
+.author-contacts__item {
+  width: 144px;
+  height: 66px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 10px 0;
+}

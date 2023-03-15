@@ -1,0 +1,9 @@
+.author-socials {
+  width: 383px;
+  height: 66px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 10px 0;
+  margin-bottom: 40px;
+}
