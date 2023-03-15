@@ -11,6 +11,7 @@
 @import url(../blocks/hero/__content/hero__content.css);
 @import url(../blocks/hero/__group/hero__group.css);
 @import url(../blocks/hero/__subtitle/hero__subtitle.css);
+@import url(../blocks/font/font.css);
 @import url(../blocks/hero/__title/hero__title.css);
 @import url(../blocks/hero/__paragraph/hero__paragraph.css);
 @import url(../blocks/hero/__button/hero__button.css);
@@ -35,6 +36,7 @@
 @import url(../blocks/gallery/__item/gallery__item.css);
 @import url(../blocks/gallery/__image/gallery__image.css);
 @import url(../blocks/gallery/inform-conteiner/gallery__inform-conteiner.css);
+@import url(../blocks/gallery/__video-time-container/gallery__video-time-container.css);
 @import url(../blocks/gallery/video-time/gallery__video-time.css);
 @import url(../blocks/gallery/__video-icon/gallery__video-icon.css);
 @import url(../blocks/footer/footer.css);
