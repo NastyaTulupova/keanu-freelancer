@@ -1,0 +1,7 @@
+.projects__animation {
+  transition: transform 0.8s ease-in-out;
+}
+
+.projects__animation:hover {
+  transform: scale(1.04);
+}

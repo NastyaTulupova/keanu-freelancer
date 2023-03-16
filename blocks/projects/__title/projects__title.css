@@ -1,6 +1,8 @@
 .projects__title {
-  margin: 164px 113px 0px 33px;
+  margin: 164px 0px 0px 32px;
   padding: 0;
+  min-height: 56px;
+  max-width: 170px;
   font-weight: 700;
   font-size: 18px;
   line-height: 28px;

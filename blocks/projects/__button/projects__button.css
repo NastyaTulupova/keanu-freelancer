@@ -10,9 +10,11 @@
   line-height: 130%;
   cursor: pointer;
   transition: opacity .4s;
-  font-family: inherit;
   border: 0;
   margin: 16px 152px 0px 32px;
+  padding: 0;
+  font-family: 'Roboto Medium';
+  font-style: normal;
 }
 
 .projects__button:hover {

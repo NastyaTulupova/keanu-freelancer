@@ -1,8 +1,11 @@
 .hero__title {
 padding: 0;
 margin: 16px 0 24px 0;
+max-width: 464px;
+min-height: 59px;
 font-weight: 700;
 font-size: 50px;
 line-height: 59px;
 color: #FFF;
+box-sizing: border-box;
 }
