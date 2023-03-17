@@ -36,9 +36,9 @@
 @import url(../blocks/gallery/gallery.css);
 @import url(../blocks/gallery/__item/gallery__item.css);
 @import url(../blocks/gallery/__image/gallery__image.css);
-@import url(../blocks/gallery/inform-conteiner/gallery__inform-conteiner.css);
+@import url(../blocks/gallery/__inform-conteiner/gallery__inform-conteiner.css);
 @import url(../blocks/gallery/__video-time-container/gallery__video-time-container.css);
-@import url(../blocks/gallery/video-time/gallery__video-time.css);
+@import url(../blocks/gallery/__video-time/gallery__video-time.css);
 @import url(../blocks/gallery/__video-icon/gallery__video-icon.css);
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/contacts/contacts.css);
